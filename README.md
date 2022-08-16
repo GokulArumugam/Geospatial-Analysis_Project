@@ -110,5 +110,5 @@ And so many more!!
 # 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
   
-# 📫 Feedback
+# 📫 Feedback.
 If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/gokularumugam-theanalyst/)
