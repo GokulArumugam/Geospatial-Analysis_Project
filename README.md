@@ -2,19 +2,12 @@
 # GeoSpatial Analysis - Zomato Data Analysis Project
 
 <p align="center">
-
   [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-  
-  ![GitHub stars](https://img.shields.io/github/stars/Lokesh-Attarde/Geospatial-Analysis-Project)
-  ![GitHub forks](https://img.shields.io/github/forks/Lokesh-Attarde/Geospatial-Analysis-Project)
-  [![GitHub contributors](https://img.shields.io/github/contributors/Lokesh-Attarde/Geospatial-Analysis-Project.svg)](https://GitHub.com/Lokesh-Attarde/Geospatial-Analysis-Project/graphs/contributors/)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 </p>  
 
 ![zomato](https://user-images.githubusercontent.com/84115928/139818260-1d656ae6-8abb-455f-9c1a-5b036734e484.jpg)
 
-# 📝Problem Statement
+# Problem Statement
 Analysis of the following is required by the Sales Director of Zomato Food Chain:
 
     1. Most famous Restaurant Chains in Bangalore.
@@ -32,11 +25,11 @@ Analysis of the following is required by the Sales Director of Zomato Food Chain
 
 And so many more!!
 
-# ⏳ Dataset
+# Dataset
 Download the dataset for this project from following Link -
 * [Zomato Bangalore Restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants/download)
 
-# 📚 Data Analysis
+# Data Analysis
 In the datasets, we are provided with 17 columns(Features) of data.
 
 * **url** : Contains the url of the restaurant on the Zomato Website.
@@ -56,8 +49,8 @@ In the datasets, we are provided with 17 columns(Features) of data.
 
 Out of the 17 features given in the datasets, 04 are Continuous and 13 (including the target variable) are Categorical features.
 
-# 🖥️ Technologies:
-## 🛠️ Tools Used
+# Technologies:
+## Tools Used 🛠️
 * Jupyter Notebook is used as IDE.
 * Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 * For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
@@ -68,7 +61,7 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
   <img src="https://user-images.githubusercontent.com/84115928/139908931-11089695-88cf-4e78-8a7a-44bc8d75a560.png">
 </p>
 
-# 🎉 Tasks performed under Spatial Analysis:
+# Tasks performed under Spatial Analysis:
 * Extract the **"Latitude"** and **"Longitude"** w.r.t. different Locations using Python's ***Geopy*** Library.
 * Generated a **"BaseMap"** of Bangalore using Python's ***Folium*** Library.
 * Plotted a HeatMap based of variety of Use Cases with the help of Python's ***Folium "HeatMap" Plugins.***
@@ -86,10 +79,10 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
 
 For more details, please go through the Jupyter Notebook attached above.
 
-# 📋 Challenges Faced during this Project:
+# Challenges Faced during this Project:
 * To know about What are the different kinds of challenges encountered during this project, do connect with me for more details.
 
-# 💡 Conclusions
+# Conclusions
 
 * "Cafe Coffee Day" is on Peak. Next, We have "Onesta", followed by "Empire Restaurant" and so on.
 * "64.4%" Restaurants accepts Online Order whereas around "35.6%" Restaurants does not accepts Online Order.
@@ -106,9 +99,6 @@ For more details, please go through the Jupyter Notebook attached above.
 * Now, In terms of "Biryani", in "South" Bangalore Region, We have "Maximum Number of "Biryani cuisines Restaurants" followed by "South-West" and "Central" Bangalore.
 
 And so many more!!
-
-# 🎉 Help Me Improve
-Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
   
-# 📫 Feedback.
+# Feedback.
 If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/gokularumugam-theanalyst/)
