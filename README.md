@@ -2,7 +2,7 @@
 # GeoSpatial Analysis - Zomato Data Analysis Project
 
 <p align="center">
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+  ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 </p>  
 
 ![zomato](https://user-images.githubusercontent.com/84115928/139818260-1d656ae6-8abb-455f-9c1a-5b036734e484.jpg)
