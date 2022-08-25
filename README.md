@@ -69,7 +69,7 @@ Out of the 17 features given in the datasets, 04 are Continuous and 13 (includin
 * Plotted a HeatMap based of variety of Use Cases with the help of Python's ***Folium "HeatMap" Plugins.***
 * Performed **"Marker Cluster Analysis"** on top of the **"HeatMap"** using Python's ***Folium "FastMarkerCluster" Plugins.***
 
-# 🌱 Some Exciting Glimpse of the Visuals:
+# Some Exciting Glimpse of the Visuals:
 ![Glimpse 1](https://user-images.githubusercontent.com/84115928/140026074-61d742db-5909-43bf-ae6f-b1586e9d73eb.gif)
 ![Final Glimpse 2](https://user-images.githubusercontent.com/84115928/140026135-7d40a13e-4c76-47fc-b26b-81e4ab2bdefe.gif)
 ![Final Glimpse 3](https://user-images.githubusercontent.com/84115928/140026180-d24ef4d3-c492-43f0-95f4-5f4cb65a0ea8.gif)
