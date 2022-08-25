@@ -3,7 +3,7 @@
 
 <p align="center">
   
-  ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+  ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
   
 </p>  
 
